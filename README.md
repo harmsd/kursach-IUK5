@@ -1,2 +1,2 @@
-# kursach-IUK5
+# kursach-IUK5 Князев Даниил
 kursach
